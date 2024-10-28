@@ -13,6 +13,11 @@ A React-based Password Manager application that enables users to securely store 
 
 ## App Sections and Screenshots
 
+![No Passwords View](https://i.ibb.co/Y8Hc3cV/password-manager-page-0001.jpg)
+
+![With Passwords View](https://i.ibb.co/d5sM1Lw/passwordmanager2-page-0001.jpg)
+
+
 ### Logo and Header Section
 This section contains the app logo for easy recognition.
 
